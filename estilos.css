@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blanchedalmond;
+}
+
+.miCaja{
+    background-color: crimson;
+    padding: 10px;
+    max-width: 90%;
+    margin: 5px auto;
+    color: white;
+    min-height: 400px;
+    border-radius: 8px;
+}
+
+.caja{
+    background-color: rgba(110, 106, 106, 0.587);
+    padding: 5px;
+    border: 1px solid black;
+    margin-bottom: 2px;
+    border-radius: 5px;
+}
