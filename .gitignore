@@ -1,2 +1,5 @@
 #Ignorar archivos txt
 *.txt
+
+#Ignorar directorio otraCarpeta
+otraCarpeta/
